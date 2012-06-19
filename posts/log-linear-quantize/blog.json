@@ -1,0 +1,6 @@
+{ "id": "log-linear-quantize"
+, "name": "Log/linear quantization"
+, "file": "log-linear-quantize.md"
+, "author": "sentientwaffle"
+, "keywords": ["quantization", "npm"]
+}
